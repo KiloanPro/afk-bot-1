@@ -1,0 +1,14 @@
+{
+  "name": "afk-bot",
+  "version": "1.0.0",
+  "description": "an afk bot that keeps you online in minecraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AgulebYT",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^3.11.2"
+  }
+}
