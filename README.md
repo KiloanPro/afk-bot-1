@@ -22,11 +22,15 @@ password: Enter the password in ' ' for premium accounts Leave it blank for crac
           2.Enter "cd "<br>
           3.Drag the extracted folder into the terminal window<br>
           4.hit ENTER<br>
-          5.enter "node ."<br>
-          6.hit ENTER<br>
+	  5.enter "npm install mineflayer"<br>
+	  6.hit ENTER<br>
+          7.enter "node ."<br>
+          8.hit ENTER<br>
   For Windows:1.Open CMD<br>
-              2.Enter "cd "<br>
-              3.Drag the extracted folder into the terminal window<br>
-              4.hit ENTER<br>
-              5.enter "node ."<br>
-              6.hit ENTER
+           2.Enter "cd "<br>
+           3.Drag the extracted folder into the terminal window<br>
+           4.hit ENTER<br>
+	   5.enter "npm install mineflayer"<br>
+	   6.hit ENTER<br>
+           7.enter "node ."<br>
+           8.hit ENTER<br>
