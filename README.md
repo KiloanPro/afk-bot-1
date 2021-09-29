@@ -3,7 +3,6 @@ An minecraft afk bot that keeps you online
 <h1>Functions</h1>
 Premium / Cracked accounts
 minecraft 1.17
-Commands
 <h1>How To Use</h1><br>
 1.Download the project<br>
 2.Extract the zip file<br>
