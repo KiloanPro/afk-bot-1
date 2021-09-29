@@ -8,5 +8,5 @@ const bot = mineflayer.createBot({
 
 })
 
-bot.chat("example")
+
 
