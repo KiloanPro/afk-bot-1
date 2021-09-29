@@ -8,5 +8,9 @@ const bot = mineflayer.createBot({
 
 })
 
+bot.on('chat', () => {
+  bot.chat('your_message')
+})
+
 
 
